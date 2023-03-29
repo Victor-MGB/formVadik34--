@@ -1,0 +1,11 @@
+
+.cardName{
+  padding: 30%;
+  background-color: black;
+}
+.card{
+  color: green;
+  font-size: large;
+  border-radius: 3%;
+  box-shadow: 4px 4px 8px 4px darkblue;
+}

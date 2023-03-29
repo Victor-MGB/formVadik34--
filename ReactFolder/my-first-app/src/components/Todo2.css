@@ -1,0 +1,73 @@
+body{
+    background-color: #6447ff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.input-text{
+    display: inline;
+    padding: 40px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: inset 5px 3px 2px 10px  ;
+}
+.list ul li button{
+    position: absolute;
+    right: 0%;
+    background-color: #f34541;
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 51px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    border: none;
+}
+.add-btn{
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #262b26;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 12px;
+    display: inline-block;
+    border: none;
+}
+.app-title{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.list ul li{
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffffff;
+    line-height: 30px;
+    border-bottom-style: solid;
+    border-bottom-color: #6447ff;
+    padding: 10px;
+    position: relative;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 3px 4px 5px  #018585;
+}
+.container{
+    color: #fff;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
